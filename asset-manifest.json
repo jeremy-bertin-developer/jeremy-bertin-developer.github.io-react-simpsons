@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a4664b8.chunk.css",
+    "main.js": "/static/js/main.78610bde.chunk.js",
+    "main.js.map": "/static/js/main.78610bde.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07c9febd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07c9febd.js.map",
+    "static/js/2.bcf703b1.chunk.js": "/static/js/2.bcf703b1.chunk.js",
+    "static/js/2.bcf703b1.chunk.js.map": "/static/js/2.bcf703b1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3cc063d9d1c498cd524ea3044ae5f986.js": "/precache-manifest.3cc063d9d1c498cd524ea3044ae5f986.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2a4664b8.chunk.css.map": "/static/css/main.2a4664b8.chunk.css.map",
+    "static/js/2.bcf703b1.chunk.js.LICENSE": "/static/js/2.bcf703b1.chunk.js.LICENSE",
+    "static/media/index.css": "/static/media/simpsons-bg-header.183d915b.png",
+    "static/media/title.png": "/static/media/title.05257f91.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07c9febd.js",
+    "static/js/2.bcf703b1.chunk.js",
+    "static/css/main.2a4664b8.chunk.css",
+    "static/js/main.78610bde.chunk.js"
+  ]
+}
